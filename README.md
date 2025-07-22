@@ -155,13 +155,13 @@
     <div class="video-card">
       <span><strong>Movement System</strong></span>
       <a href="https://youtu.be/HlMUO7bk6Ik" target="_blank">
-        <img src="https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/movement.png" alt="Movement Video">
+        <img src="Photos/movement.png" alt="Movement Video">
       </a>
     </div>
     <div class="video-card">
       <span><strong>Lockpicking System</strong></span>
       <a href="https://youtu.be/9pSvBBJEInI" target="_blank">
-        <img src="https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/lock.png" alt="Lockpicking Video">
+        <img src="Photos/lock.png" alt="Lockpicking Video">
       </a>
     </div>
   </section>

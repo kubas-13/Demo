@@ -137,7 +137,7 @@
 
   <nav>
     <div class="nav-left">
-      <a class="name" href="PortFolio.html"><strong>Mantas Krutulis</strong></a>
+      <a class="name" href="https://kubas-13.github.io/Portfolio/"><strong>Mantas Krutulis</strong></a>
       <h2>Game Developer</h2>
     </div>
     <div class="nav-right">

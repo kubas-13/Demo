@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -172,10 +171,10 @@
       <h2><strong>CODE</strong></h2>
     </div>
     <div class="code-links">
-      <a href="https://github.com/kubas-13/mantaskrutulis.github.io/tree/main/Code%20Examples/MovemetSystem" target="_blank">
+      <a href="Photos/movement.png" target="_blank">
         ➤ Movement System Code Example
       </a>
-      <a href="https://github.com/kubas-13/mantaskrutulis.github.io/tree/main/Code%20Examples/LockpickingSystem/LootBox" target="_blank">
+      <a href="Photos/lock.png" target="_blank">
         ➤ Lockpicking System Code Example
       </a>
     </div>
